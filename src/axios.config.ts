@@ -5,7 +5,7 @@ interface InternalAxiosRequestConfig extends AxiosRequestConfig {
 }
 
 const axiosInstance: AxiosInstance = axios.create({
-  baseURL: 'https://study.logiper.com', 
+  baseURL: 'https://rickandmortyapi.com', 
   timeout: 5000,
   headers: {
     'Content-Type': 'application/json',

@@ -1,8 +1,4 @@
-#root {
-    display: flex;
-    margin: 0 auto; 
-    width: 100%; 
-}
+
 .drawer {
   position: absolute;
   top: 0;
