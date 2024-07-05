@@ -1,6 +1,4 @@
-# Personal Debt Tracking Application
-you can clone project https://github.com/ahmet-sa/RickAndMortyTask.git
-after download you can install library
+
 # Set up
 please first if not have nodejs please dowload and set up 
 # nodejs
